@@ -1,0 +1,28 @@
+@model IEnumerable<Prog3A.Models.LoginModel>
+
+@{
+    ViewData["Title"] = "Login List";
+}
+
+<h1>Login Entries</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Password</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Username</td>
+                <td>@item.Password</td>
+                <td>@item.Role</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-action="Create">Add New Login</a>
