@@ -4,6 +4,11 @@ using System.Threading.Tasks;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Prog3A.Data;
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+
+
 
 namespace Prog3A.Controllers
 {
@@ -32,7 +37,6 @@ namespace Prog3A.Controllers
                 return View();
             }
 
-            // Look up the user by username in the LoginModel table
             var user = await _context.LoginModel
                 .FirstOrDefaultAsync(u => u.Username == username);
 
@@ -42,20 +46,32 @@ namespace Prog3A.Controllers
                 return View();
             }
 
-            // Hash the input password and compare it to the stored hash
             var hashedInput = PasswordHelper.HashPassword(password);
 
             if (user.Password == hashedInput)
             {
-                TempData["Username"] = user.Username;
-                TempData["Role"] = user.Role;
+                var claims = new List<Claim>
+        {
+            new Claim(ClaimTypes.Name, user.Username),
+            new Claim(ClaimTypes.Role, user.Role)
+        };
 
-                return RedirectToAction("Index"); // Or whatever your protected page is
+                var claimsIdentity = new ClaimsIdentity(claims, "MyCookieAuth");
+
+                var authProperties = new AuthenticationProperties
+                {
+                    IsPersistent = true,
+                };
+
+                await HttpContext.SignInAsync("MyCookieAuth", new ClaimsPrincipal(claimsIdentity), authProperties);
+
+                return RedirectToAction("Index", "Home");
             }
 
             ModelState.AddModelError("", "Invalid username or password.");
             return View();
         }
+
 
 
 
@@ -76,6 +92,7 @@ namespace Prog3A.Controllers
         }
 
         // GET: Login/Index
+        [Microsoft.AspNetCore.Authorization.Authorize(Roles = "Admin")]
         public async Task<IActionResult> Index()
         {
             var logins = await _context.LoginModel.ToListAsync();

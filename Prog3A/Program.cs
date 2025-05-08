@@ -10,6 +10,16 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 
+// Added custom Autorisation
+builder.Services.AddAuthentication("MyCookieAuth")
+.AddCookie("MyCookieAuth", options =>
+{
+    options.LoginPath = "/Login/Login"; // Redirect to login if not authenticated
+});
+
+builder.Services.AddAuthorization();
+
+
 // Add MVC
 builder.Services.AddControllersWithViews();
 

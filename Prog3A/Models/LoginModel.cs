@@ -8,6 +8,6 @@ namespace Prog3A.Models
         public int Id { get; set; }
         public string? Username { get; set; }
         public string? Password { get; set; }
-        public string? Role { get; set; } = "Farmer"; // This will save the default role as "Farmer" 
+        public string? Role { get; set; } = "User"; // This will save the default role as "Farmer" 
     }
 }
