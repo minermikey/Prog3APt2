@@ -1,0 +1,37 @@
+// namespace Prog3A.Controllers;
+
+// public class ProductsController : Controller
+// {
+
+//         public IActionResult Create()
+//         {
+//             return View();
+//         } 
+
+
+//     // [Authorize(Roles = "Farmer")]
+//     [HttpPost]
+//     [ValidateAntiForgeryToken]
+//     public async Task<IActionResult> Create(ProductsModel product)
+//     {
+//         var username = User.Identity?.Name;
+
+//         var user = await _context.LoginModel
+//             .FirstOrDefaultAsync(u => u.Username == username);
+
+//         if (user == null || user.Role != "Farmer" || !user.IsConfirmed)
+//         {
+//             TempData["Error"] = "You must be a confirmed farmer to add products.";
+//             return RedirectToAction("Index", "Home");
+//         }
+
+//         product.FarmerId = user.Id; // Link product to the farmer
+
+//         _context.Products.Add(product);
+//         await _context.SaveChangesAsync();
+
+//         return RedirectToAction("Index");
+//     }
+
+
+// }
