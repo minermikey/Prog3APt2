@@ -1,0 +1,26 @@
+@* @model Prog3A.Models.ChatViewModel
+
+<h2>Chat</h2>
+
+<div style="max-height:400px; overflow-y:auto;">
+    @foreach (var message in Model.MessageModel)
+    {
+        bool isMine = message.UserId == Model.CurrentUserId;
+        <div style="text-align:@(isMine ? "right" : "left"); margin: 10px;">
+            <span
+                style="display:inline-block; padding:10px; border-radius:10px; background-color:@(isMine ? "#cce5ff" : "#e2e3e5");">
+                <strong>@message.Username:</strong> @message.Content
+            </span>
+            <div style="font-size: small; color: gray;">
+                @message.SentAt.ToString("HH:mm")
+            </div>
+        </div>
+    }
+</div>
+
+<form asp-action="SendMessage" method="post">
+    <div class="form-group">
+        <textarea name="NewMessage" class="form-control" rows="2" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Send</button>
+</form> *@
