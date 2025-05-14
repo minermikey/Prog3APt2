@@ -58,10 +58,6 @@ While working on this project, I enhanced and regained my knowledge of C# and MV
   * 📷 Product images
   * 📝 Descriptions
   * 💵 Pricing
-  * 🟢 Availability status
-
-* Fully **responsive design** for desktop, tablet, and mobile devices.
-
 ---
 
 ### ✅ Farmer Approval Workflow
