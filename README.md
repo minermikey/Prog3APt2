@@ -152,9 +152,10 @@ While working on this project, I enhanced and regained my knowledge of C# and MV
 
    ```bash
    dotnet run
+   ```
 
 This will appear, click localhost to open the web page if it automatically doesn't open : 
-
+```
 info: Microsoft.Hosting.Lifetime[14]
       Now listening on: http://localhost:5153 <----------
 info: Microsoft.Hosting.Lifetime[0]
@@ -163,9 +164,7 @@ info: Microsoft.Hosting.Lifetime[0]
       Hosting environment: Development
 info: Microsoft.Hosting.Lifetime[0]
       Content root path: D:\VSCode\Prog3A
-   
    ```
-
 ---
 
 ## 🚀 Usage
