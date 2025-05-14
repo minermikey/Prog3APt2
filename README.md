@@ -95,21 +95,6 @@ While working on this project, I enhanced and regained my knowledge of C# and MV
 
 ---
 
-### ☁️ Azure Cloud Integration
-
-* **Azure Table Storage** for managing:
-
-  * Farmer data
-  * Product entries
-  * User information
-
-* **Azure File Storage** for:
-
-  * Product images
-  * Document uploads for admin verification
-
----
-
 ### 📊 Admin Dashboard
 
 * View key platform metrics: 👥 Users, 👨‍🌾 Farmers, 📦 Products
@@ -118,19 +103,6 @@ While working on this project, I enhanced and regained my knowledge of C# and MV
 * Moderate flagged content/messages
 
 ---
-
-### 📧 Notifications (Planned)
-
-* Email-based alerts for:
-
-  * Farmer approval results
-  * New messages
-  * Product activity
-
-* Future integration with **SendGrid** or **MailKit** planned.
-
----
-
 ### 🧑‍🤝‍🧑 Community Discussion Forum
 
 * Registered users can:
