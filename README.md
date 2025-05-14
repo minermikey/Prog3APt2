@@ -67,7 +67,7 @@ While working on this project, I enhanced and regained my knowledge of C# and MV
 
   * ✔️ Approve
   * ❌ Reject
-* Only approved farmers can access the dashboard and list products.
+* Only approved farmers can access the dashboard and create products.
 
 ---
 
