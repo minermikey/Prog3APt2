@@ -1,0 +1,45 @@
+@model IEnumerable<Prog3A.Models.LoginModel>
+
+@{
+    ViewData["Title"] = "Login List";
+}
+
+<h1>Login Entries</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Password (Hashed)</th>
+            <th>Role</th>
+            <th>Confirmed</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Username</td>
+                <td>@item.Password</td>
+                <td>@item.Role</td>
+                <td>@item.IsConfirmed</td>
+                <td>
+                    @if (item.Role == "Farmer" && !item.IsConfirmed)
+                    {
+                        <form asp-action="ConfirmFarmer" asp-controller="Login" method="post" style="display:inline">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-success btn-sm">Confirm</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <span class="text-muted">Accepted</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-action="Create">Add New Login</a>

@@ -1,0 +1,13 @@
+@model Prog3A.Models.MessageModel
+
+<form method="post" asp-action="SendMessage">
+    <div>
+        <label for="UserName">Username:</label>
+        <input type="text" id="UserName" name="UserName" required />
+    </div>
+    <div>
+        <label for="Content">Message:</label>
+        <textarea id="Content" name="Content" required maxlength="1000"></textarea>
+    </div>
+    <button type="submit">Send</button>
+</form>

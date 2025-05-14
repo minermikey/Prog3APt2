@@ -1,0 +1,37 @@
+@model IEnumerable<Prog3A.Models.FarmersProducts>
+
+@{
+    ViewData["Title"] = "Farmers Market Shop";
+}
+
+<h2 class="text-center my-4">🛒 Farmers Market Shop</h2>
+
+<div class="container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
+        @foreach (var product in Model)
+        {
+            <div class="card">
+                <img src="@product.ImageUrl" alt="Product Image" />
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <p class="card-text">Price: @product.Price</p>
+
+                    @if (product.Reviews.Any())
+                    {
+                        var avg = product.Reviews.Average(r => r.Rating);
+                        <p class="card-text text-muted">Rating: @avg.ToString("0.0") / 5</p>
+                    }
+                    else
+                    {
+                        <p class="text-muted">No reviews yet</p>
+                    }
+
+                    <a href="@Url.Action("LeaveReview", "FarmersProducts", new { productId = product.Id })"
+                        class="btn btn-primary">Leave a Review</a>
+                </div>
+            </div>
+        }
+
+
+    </div>
+</div>
