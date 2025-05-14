@@ -1,279 +1,295 @@
 {
   "Files": [
     {
-      "Id": "D:\\VSCode\\Prog3A\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Prog3A.bundle.scp.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Prog3A.bundle.scp.css",
       "PackagePath": "staticwebassets\\Prog3A.xs0g35fj8p.bundle.scp.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\css\\site.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\favicon.ico",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\images\\CarrotsInABox.jpg",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\images\\CarrotsInABox.jpg",
       "PackagePath": "staticwebassets\\images\\CarrotsInABox.jpg"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\images\\CropPicsForWebsite.jpg",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\images\\CropPicsForWebsite.jpg",
       "PackagePath": "staticwebassets\\images\\CropPicsForWebsite.jpg"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\images\\products\\1c9e39ad-c924-442d-91bb-0c456a4a54bd.png",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\images\\Website Pictures\\CropPicsForWebsite.jpg",
+      "PackagePath": "staticwebassets\\images\\Website Pictures\\CropPicsForWebsite.jpg"
+    },
+    {
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\images\\products\\1c9e39ad-c924-442d-91bb-0c456a4a54bd.png",
       "PackagePath": "staticwebassets\\images\\products\\1c9e39ad-c924-442d-91bb-0c456a4a54bd.png"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\images\\products\\3513a6ca-0244-431e-91d5-8ecddd4a706e.png",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\images\\products\\3513a6ca-0244-431e-91d5-8ecddd4a706e.png",
       "PackagePath": "staticwebassets\\images\\products\\3513a6ca-0244-431e-91d5-8ecddd4a706e.png"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\images\\products\\b8412215-c0eb-4e26-b472-a9aa5c3c9939.png",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\images\\products\\apples.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\apples.jpg"
+    },
+    {
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\images\\products\\b8412215-c0eb-4e26-b472-a9aa5c3c9939.png",
       "PackagePath": "staticwebassets\\images\\products\\b8412215-c0eb-4e26-b472-a9aa5c3c9939.png"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\js\\site.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\images\\products\\d016c80d-2eb8-415f-9173-a89832ce7f38.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d016c80d-2eb8-415f-9173-a89832ce7f38.jpg"
+    },
+    {
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\images\\products\\eggs.png",
+      "PackagePath": "staticwebassets\\images\\products\\eggs.png"
+    },
+    {
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "D:\\VSCode\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

@@ -17,101 +17,101 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Prog3A
 build_property.RootNamespace = Prog3A
-build_property.ProjectDir = D:\VSCode\Prog3A\
+build_property.ProjectDir = E:\Prog3APt2-main\Prog3APt2-main\Prog3A\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\VSCode\Prog3A
+build_property.MSBuildProjectDirectory = E:\Prog3APt2-main\Prog3APt2-main\Prog3A
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/VSCode/Prog3A/Views/Authentication/Login.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Authentication/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Authentication/Register.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Authentication/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Chat/Index.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Chat/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/FarmersProducts/Create.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/FarmersProducts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVyc1Byb2R1Y3RzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/FarmersProducts/Index.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/FarmersProducts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVyc1Byb2R1Y3RzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/FarmersProducts/LeaveReview.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/FarmersProducts/LeaveReview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVyc1Byb2R1Y3RzXExlYXZlUmV2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/FarmersProducts/Shop.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/FarmersProducts/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVyc1Byb2R1Y3RzXFNob3AuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Home/Index.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Home/Privacy.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Login/Create.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Login/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Login/Index.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Login/Login.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Message/Index.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Message/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Message/SendMessage.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Message/SendMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxTZW5kTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Products/Create.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Products/Index.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Register/Register.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Register/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Shared/Error.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/_ViewImports.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/_ViewStart.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Prog3A/Views/Shared/_Layout.cshtml]
+[E:/Prog3APt2-main/Prog3APt2-main/Prog3A/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-49h39bi4s2

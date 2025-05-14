@@ -99,7 +99,7 @@ namespace Prog3A.Controllers
         // }
 
         // GET: Login/Index
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,Employee")]
         public async Task<IActionResult> Index()
         {
             // Gives  list of all the users and you can confirm farmers from here
@@ -124,12 +124,12 @@ namespace Prog3A.Controllers
                 .Where(u => (u.Role == "Farmer" || u.Role == "Employee") && !u.IsConfirmed)
                 .ToListAsync();
 
-            return View(unconfirmed);
+            return View(Index);
         }
 
 
         // This action will ALLOW FOR confirmation of the farmer and employees, but it access is limited to the admin and employees only
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,Employee")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> ConfirmUser(int id)
@@ -141,7 +141,7 @@ namespace Prog3A.Controllers
                 await _context.SaveChangesAsync();
             }
 
-            return RedirectToAction("UnconfirmedUsers");
+            return RedirectToAction("Index");
         }
 
 

@@ -5949,11 +5949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSCode\\Prog3A\\Prog3A.csproj",
+      "projectUniqueName": "E:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\Prog3A.csproj",
       "projectName": "Prog3A",
-      "projectPath": "D:\\VSCode\\Prog3A\\Prog3A.csproj",
+      "projectPath": "E:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\Prog3A.csproj",
       "packagesPath": "C:\\Users\\Michael Singh\\.nuget\\packages\\",
-      "outputPath": "D:\\VSCode\\Prog3A\\obj\\",
+      "outputPath": "E:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Michael Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",

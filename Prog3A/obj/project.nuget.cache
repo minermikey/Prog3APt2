@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6dj2tXO5c6E=",
+  "dgSpecHash": "CDhau2g17ew=",
   "success": true,
-  "projectFilePath": "D:\\VSCode\\Prog3A\\Prog3A.csproj",
+  "projectFilePath": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\Prog3A.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michael Singh\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Michael Singh\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

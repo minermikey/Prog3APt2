@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCode\\Prog3A\\Prog3A.csproj": {}
+    "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\Prog3A.csproj": {}
   },
   "projects": {
-    "D:\\VSCode\\Prog3A\\Prog3A.csproj": {
+    "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\Prog3A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCode\\Prog3A\\Prog3A.csproj",
+        "projectUniqueName": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\Prog3A.csproj",
         "projectName": "Prog3A",
-        "projectPath": "D:\\VSCode\\Prog3A\\Prog3A.csproj",
+        "projectPath": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\Prog3A.csproj",
         "packagesPath": "C:\\Users\\Michael Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCode\\Prog3A\\obj\\",
+        "outputPath": "e:\\Prog3APt2-main\\Prog3APt2-main\\Prog3A\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Michael Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",

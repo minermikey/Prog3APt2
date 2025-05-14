@@ -36,7 +36,7 @@
                             Product</a>
 
                     }
-                    @if (User.IsInRole("Admin"))
+                    @if (User.IsInRole("Employee") || User.IsInRole("Admin"))
                     {
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-controller="FarmersProducts" asp-action="Index">Manage
