@@ -58,7 +58,7 @@ namespace Prog3A.Controllers
                 return View();
             }
             // If the Farmer is not confirmed, it will display a messages saying waiting for approval 
-            if (user.Role == "Farmer" && !user.IsConfirmed)
+            if ((user.Role == "Farmer" || user.Role == "Employee") && !user.IsConfirmed)
             {
                 ModelState.AddModelError("", "Your account is pending approval by an admin.");
                 return View();
@@ -117,22 +117,23 @@ namespace Prog3A.Controllers
 
 
         // This action will display all the unconfirmed farmers
-        [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> UnconfirmedFarmers()
+        [Authorize(Roles = "Admin,Employee")]
+        public async Task<IActionResult> UnconfirmedUsers()
         {
             var unconfirmed = await _context.LoginModel
-                .Where(u => u.Role == "Farmer" && !u.IsConfirmed)
+                .Where(u => (u.Role == "Farmer" || u.Role == "Employee") && !u.IsConfirmed)
                 .ToListAsync();
 
             return View(unconfirmed);
         }
 
-        // This action will ALLOW FOR confirmation of the farmer, but it access is limited to the admin and employees only
-        [Microsoft.AspNetCore.Authorization.Authorize(Roles = "Admin")]
+
+        // This action will ALLOW FOR confirmation of the farmer and employees, but it access is limited to the admin and employees only
+        [Authorize(Roles = "Admin")]
         [HttpPost]
-        public async Task<IActionResult> ConfirmFarmer(int id)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> ConfirmUser(int id)
         {
-            // finds all the users id 
             var user = await _context.LoginModel.FindAsync(id);
             if (user != null)
             {
@@ -140,8 +141,9 @@ namespace Prog3A.Controllers
                 await _context.SaveChangesAsync();
             }
 
-            return RedirectToAction("Index");
+            return RedirectToAction("UnconfirmedUsers");
         }
+
 
     }
 }

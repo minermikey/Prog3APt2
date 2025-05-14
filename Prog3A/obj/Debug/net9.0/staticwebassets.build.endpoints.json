@@ -9510,8 +9510,8 @@
       ]
     },
     {
-      "Route": "images/Website Pictures/CropPicsForWebsite.c6mhx00oei.jpg",
-      "AssetFile": "images/Website Pictures/CropPicsForWebsite.jpg",
+      "Route": "images/CropPicsForWebsite.c6mhx00oei.jpg",
+      "AssetFile": "images/CropPicsForWebsite.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9550,13 +9550,13 @@
         },
         {
           "Name": "label",
-          "Value": "images/Website Pictures/CropPicsForWebsite.jpg"
+          "Value": "images/CropPicsForWebsite.jpg"
         }
       ]
     },
     {
-      "Route": "images/Website Pictures/CropPicsForWebsite.jpg",
-      "AssetFile": "images/Website Pictures/CropPicsForWebsite.jpg",
+      "Route": "images/CropPicsForWebsite.jpg",
+      "AssetFile": "images/CropPicsForWebsite.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {

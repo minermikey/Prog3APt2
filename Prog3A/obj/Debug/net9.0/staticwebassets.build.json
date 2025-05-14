@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KD3PwwSikXFKxy0CgkbGY2h2Z3eh2Yi7R9QDDVNiK9k=",
+  "Hash": "QQaVvP7+f+MeGWadSxWBs3ZTPSRNQ7bi6Ri1vkv1Qdw=",
   "Source": "Prog3A",
   "BasePath": "_content/Prog3A",
   "Mode": "Default",
@@ -4091,6 +4091,27 @@
       "OriginalItemSpec": "wwwroot\\images\\CarrotsInABox.jpg"
     },
     {
+      "Identity": "D:\\VSCode\\Prog3A\\wwwroot\\images\\CropPicsForWebsite.jpg",
+      "SourceId": "Prog3A",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VSCode\\Prog3A\\wwwroot\\",
+      "BasePath": "_content/Prog3A",
+      "RelativePath": "images/CropPicsForWebsite#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c6mhx00oei",
+      "Integrity": "fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CropPicsForWebsite.jpg"
+    },
+    {
       "Identity": "D:\\VSCode\\Prog3A\\wwwroot\\images\\products\\1c9e39ad-c924-442d-91bb-0c456a4a54bd.png",
       "SourceId": "Prog3A",
       "SourceType": "Discovered",
@@ -4152,27 +4173,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\b8412215-c0eb-4e26-b472-a9aa5c3c9939.png"
-    },
-    {
-      "Identity": "D:\\VSCode\\Prog3A\\wwwroot\\images\\Website Pictures\\CropPicsForWebsite.jpg",
-      "SourceId": "Prog3A",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\VSCode\\Prog3A\\wwwroot\\",
-      "BasePath": "_content/Prog3A",
-      "RelativePath": "images/Website Pictures/CropPicsForWebsite#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "c6mhx00oei",
-      "Integrity": "fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Website Pictures\\CropPicsForWebsite.jpg"
     },
     {
       "Identity": "D:\\VSCode\\Prog3A\\wwwroot\\js\\site.js",
@@ -14741,6 +14741,88 @@
       ]
     },
     {
+      "Route": "images/CropPicsForWebsite.c6mhx00oei.jpg",
+      "AssetFile": "D:\\VSCode\\Prog3A\\wwwroot\\images\\CropPicsForWebsite.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 20:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c6mhx00oei"
+        },
+        {
+          "Name": "label",
+          "Value": "images/CropPicsForWebsite.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM="
+        }
+      ]
+    },
+    {
+      "Route": "images/CropPicsForWebsite.jpg",
+      "AssetFile": "D:\\VSCode\\Prog3A\\wwwroot\\images\\CropPicsForWebsite.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 20:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM="
+        }
+      ]
+    },
+    {
       "Route": "images/products/1c9e39ad-c924-442d-91bb-0c456a4a54bd.286jdijpis.png",
       "AssetFile": "D:\\VSCode\\Prog3A\\wwwroot\\images\\products\\1c9e39ad-c924-442d-91bb-0c456a4a54bd.png",
       "Selectors": [],
@@ -14983,88 +15065,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-Qstu3ARLRiYOXKKCds5FYgv6lPAIF6U4DarOt4tnHfM="
-        }
-      ]
-    },
-    {
-      "Route": "images/Website Pictures/CropPicsForWebsite.c6mhx00oei.jpg",
-      "AssetFile": "D:\\VSCode\\Prog3A\\wwwroot\\images\\Website Pictures\\CropPicsForWebsite.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18096"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 20:30:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c6mhx00oei"
-        },
-        {
-          "Name": "label",
-          "Value": "images/Website Pictures/CropPicsForWebsite.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM="
-        }
-      ]
-    },
-    {
-      "Route": "images/Website Pictures/CropPicsForWebsite.jpg",
-      "AssetFile": "D:\\VSCode\\Prog3A\\wwwroot\\images\\Website Pictures\\CropPicsForWebsite.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18096"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 20:30:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fLSJKnjsuo3a86IJo+7v+zbx39rzS/3sXkpFF2+g4eM="
         }
       ]
     },

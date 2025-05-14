@@ -11,6 +11,8 @@
         <label for="farmerId" class="mr-2">Farmer ID:</label>
         <input type="number" name="farmerId" id="farmerId" class="form-control" />
     </div>
+    <label class="mr-2">Search Date</label>
+
     <div class="form-group mr-2">
         <label for="startDate" class="mr-2">Start Date:</label>
         <input type="date" name="startDate" id="startDate" class="form-control" />
@@ -43,7 +45,7 @@
                 <td>@item.FarmerId</td>
                 <td>@item.Name</td>
                 <td>@item.Description</td>
-                <td>@item.Price.ToString("C")</td> <!-- Currency formatting -->
+                <td>@item.Price.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("en-ZA"))</td>
                 <td>@item.Category</td>
                 <td>
                     @if (!string.IsNullOrEmpty(item.ImageUrl))

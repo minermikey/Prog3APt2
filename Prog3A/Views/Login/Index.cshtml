@@ -25,9 +25,9 @@
                 <td>@item.Role</td>
                 <td>@item.IsConfirmed</td>
                 <td>
-                    @if (item.Role == "Farmer" && !item.IsConfirmed)
+                    @if ((item.Role == "Farmer" || item.Role == "Employee") && !item.IsConfirmed)
                     {
-                        <form asp-action="ConfirmFarmer" asp-controller="Login" method="post" style="display:inline">
+                        <form asp-action="ConfirmUser" asp-controller="Login" method="post" style="display:inline">
                             <input type="hidden" name="id" value="@item.Id" />
                             <button type="submit" class="btn btn-success btn-sm">Confirm</button>
                         </form>
@@ -37,9 +37,8 @@
                         <span class="text-muted">Accepted</span>
                     }
                 </td>
+
             </tr>
         }
     </tbody>
 </table>
-
-<a class="btn btn-primary" asp-action="Create">Add New Login</a>
