@@ -147,6 +147,7 @@ While working on this project, I enhanced and regained my knowledge of C# and MV
    ```bash
    dotnet ef dbcontext scaffold "Server=Your-Server-Name;Database=Your-Database;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models --force
    ```
+   if an error occurs such as Instance failure, make sure you are using one slash as shown "Server=Chickens-PC\CAKESSQL"
 
 6. Run the application:
 
